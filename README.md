@@ -1,6 +1,5 @@
 # AnagramGables
-
-Pronounced: Anne of Green Gables
+(pronounced like Anne of Green Gables)
 
 Simple anagram finder based on known set of all possible words.
 Defaults to reading from /usr/shared/dict/words. (Sorry windows users)
